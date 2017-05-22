@@ -1,5 +1,5 @@
 ## The following pair of functions cache the inverse of a matrix to ease up the 
-## computational burden in a the process.
+## computational burden in a the process. Please note that there is an example at the end.
 
 ## The first function is 'makeCacheMatrix' that creates a list containing a function to
 # 1. set the value of the matrix
